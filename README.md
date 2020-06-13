@@ -1,16 +1,12 @@
-# magic8ball
+# Magic 8 Ball
+A Magic 8 Ball app done in Flutter
 
-A Magic 8 Ball Application
+This is an exercise from AppBrewery's [course](https://www.appbrewery.co/courses/intro-to-flutter) Intro to Flutter
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+Create a Magic 8 Ball application with provided designs where the user would tap on the magic 8 ball to get one of the 5 pre-selected random answers.
 
-A few resources to get you started if this is your first Flutter project:
+For this project I took the liberty to use **Shake** library instead of button, allowing the user to shake their phones instead pressing a button which is closer to the experience of playing with a Magic 8 Ball.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
